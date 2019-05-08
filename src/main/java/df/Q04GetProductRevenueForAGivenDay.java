@@ -19,6 +19,7 @@ public class Q04GetProductRevenueForAGivenDay {
 		
 		// Process using Data Frame Operations
 		// Filter for complete or closed orders as well as the passed date
+		// Get revenue for each product
 		
 		// Write Output into Parquet file format with out compression
 		// Output directory should be passed as argument
