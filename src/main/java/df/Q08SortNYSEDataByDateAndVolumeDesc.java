@@ -11,8 +11,16 @@ public class Q08SortNYSEDataByDateAndVolumeDesc {
 		SparkSession spark = SparkSession
 				.builder()
 				.master(args[0])
-				.appName("Read and Write APIs")
+				.appName("Sort NYSE Data By Date and Volume")
 				.getOrCreate();
+		
+		// Read NYSE Data
+		// Input base directory should be passed as argument
+		
+		// Process using Data Frame Operations
+		// Sort Data in ascending order by Date and descending order by Volume
+		
+		// Write Output in CSV file format using gzip compression
 		
 
 	}

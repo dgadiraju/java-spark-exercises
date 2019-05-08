@@ -14,7 +14,14 @@ public class Q09GetTopNStocksByVolume {
 				.appName("Read and Write APIs")
 				.getOrCreate();
 		
-
+		// Read NYSE Data
+		// Input base directory should be passed as argument
+		
+		// Process using Data Frame Operations
+		// Get top 5 stocks by volume
+		
+		// Write Output in CSV file format with out compression
+		
 	}
 
 }
