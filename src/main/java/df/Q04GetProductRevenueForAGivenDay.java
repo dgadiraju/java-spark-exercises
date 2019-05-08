@@ -14,7 +14,7 @@ public class Q04GetProductRevenueForAGivenDay {
 				.appName("Get Product Revenue for a given day")
 				.getOrCreate();
 		
-		// Read Orders, Order Items and Products Data
+		// Read Orders, Order Items and Products Data using JSON data
 		// Input base directory should be passed as argument
 		
 		// Process using Data Frame Operations
